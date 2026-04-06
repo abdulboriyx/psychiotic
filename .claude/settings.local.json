@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pdftotext /Users/zerozae/Desktop/psychitarious/raw/nihms745234.pdf -)",
+      "Bash(brew list:*)",
+      "Bash(pip3 install:*)",
+      "Bash(python3:*)"
+    ]
+  }
+}
