@@ -1,0 +1,12 @@
+title: "Psychitarious Wiki"
+description: "A structured mental health and psychiatry knowledge base."
+theme: minima
+# GitHub Pages compatibility
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Minima configuration
+minima:
+  skin: auto # Automatically supports dark mode if the user's OS is in dark mode

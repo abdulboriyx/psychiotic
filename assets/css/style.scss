@@ -1,0 +1,96 @@
+---
+---
+
+// Set variables BEFORE importing minima
+$base-font-size: 16px;
+$base-font-weight: 400;
+$small-font-size: $base-font-size * 0.875;
+$base-line-height: 1.5;
+
+@import "minima";
+
+// Custom Overrides for Mobile-Friendliness
+
+body {
+  padding: 0 15px; // Add some breathing room on small screens
+}
+
+// Navigation touch targets
+.site-nav {
+  .page-link {
+    display: inline-block;
+    padding: 12px 15px; // Ensure touch target is at least 44px
+    min-height: 44px;
+    line-height: 20px;
+  }
+}
+
+.site-title {
+  padding: 12px 15px;
+  min-height: 44px;
+  display: inline-block;
+}
+
+// Table overflow management
+.post-content table {
+  display: block;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch; // Smooth scroll on iOS
+  border-collapse: collapse;
+  width: 100%;
+}
+
+// Code block scrolling
+pre, code {
+  overflow-x: auto;
+  word-wrap: normal;
+  white-space: pre;
+}
+
+// Links as touch targets
+a {
+  padding: 2px 0; // Slightly more vertical space for easier tapping
+}
+
+// Ensure single column layout on mobile
+@media screen and (max-width: 600px) {
+  .wrapper {
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+
+  .footer-col-wrapper {
+    display: block;
+  }
+
+  .footer-col {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+}
+
+// Dark mode support is already handled by minima's "skin: auto" in _config.yml,
+// but we can add specific adjustments here if needed.
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #111;
+    color: #eee;
+  }
+  
+  a {
+    color: #8ab4f8;
+  }
+  
+  code {
+    background-color: #222;
+    color: #f0f0f0;
+  }
+
+  pre {
+    background-color: #222;
+  }
+
+  table th, table td {
+    border: 1px solid #444;
+  }
+}

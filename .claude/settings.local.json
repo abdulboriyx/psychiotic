@@ -5,7 +5,9 @@
       "Bash(brew list:*)",
       "Bash(pip3 install:*)",
       "Bash(python3:*)",
-      "Bash(find /Users/zerozae/Desktop/psychitarious -type f \\\\\\(-name *.py -o -name *translat* -o -name *.json -o -name *.yaml -o -name *.yml \\\\\\))"
+      "Bash(find /Users/zerozae/Desktop/psychitarious -type f \\\\\\(-name *.py -o -name *translat* -o -name *.json -o -name *.yaml -o -name *.yml \\\\\\))",
+      "Bash(echo $ANTHROPIC_API_KEY)",
+      "Bash(env)"
     ]
   }
 }
