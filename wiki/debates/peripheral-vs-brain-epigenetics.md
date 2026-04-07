@@ -1,3 +1,5 @@
+🇹🇷 [Türkçe](../../wiki-tr/debates/peripheral-vs-brain-epigenetics.md)
+
 # Debate: Do Peripheral Epigenetic Marks Reflect Brain Epigenetic State?
 
 ## The Question

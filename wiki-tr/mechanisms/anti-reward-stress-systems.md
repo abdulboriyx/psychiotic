@@ -1,3 +1,5 @@
+🇬🇧 [English](../../wiki/mechanisms/anti-reward-stress-systems.md)
+
 # Anti-Ödül ve Stres Sistemleri (Anti-Reward and Stress Systems)
 
 ## Genel Bakış

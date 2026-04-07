@@ -1,3 +1,5 @@
+🇬🇧 [English](index.md)
+
 # Dizin
 
 ## Durumlar (Conditions)

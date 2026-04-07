@@ -1,3 +1,5 @@
+🇹🇷 [Türkçe](../../wiki-tr/treatments/hdac-inhibitors.md)
+
 # HDAC Inhibitors (Histone Deacetylase Inhibitors)
 
 ## Description

@@ -1,3 +1,5 @@
+🇬🇧 [English](../../wiki/debates/addiction-as-brain-disease.md)
+
 # Tartışma: Bağımlılık Bir Beyin Hastalığı mıdır?
 
 ## Soru

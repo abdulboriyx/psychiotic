@@ -1,3 +1,5 @@
+🇬🇧 [English](../../wiki/debates/epigenetics-causation-vs-correlation.md)
+
 # Tartışma: Psikiyatrik Bozukluklarda Epigenetik Değişiklikler — Nedensellik mi Korelasyon mu?
 
 ## Soru

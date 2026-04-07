@@ -1,3 +1,5 @@
+🇹🇷 [Türkçe](../../wiki-tr/sources/koob-volkow-2016-neurobiology-addiction.md)
+
 # Koob & Volkow (2016) — Neurobiology of Addiction: A Neurocircuitry Analysis
 
 **Full citation:** Koob GF, Volkow ND. "Neurobiology of addiction: a neurocircuitry analysis." *Lancet Psychiatry*. 2016 Aug;3(8):760–773. doi:10.1016/S2215-0366(16)00104-8.

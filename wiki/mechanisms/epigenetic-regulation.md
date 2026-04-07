@@ -1,3 +1,5 @@
+🇹🇷 [Türkçe](../../wiki-tr/mechanisms/epigenetic-regulation.md)
+
 # Epigenetic Regulation in Psychiatric Disorders
 
 ## What Is Epigenetic Regulation?

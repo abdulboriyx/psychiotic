@@ -1,3 +1,5 @@
+🇹🇷 [Türkçe](../../wiki-tr/mechanisms/dna-methylation.md)
+
 # DNA Methylation
 
 ## Overview

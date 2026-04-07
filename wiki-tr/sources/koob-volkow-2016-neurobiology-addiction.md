@@ -1,3 +1,5 @@
+🇬🇧 [English](../../wiki/sources/koob-volkow-2016-neurobiology-addiction.md)
+
 # Koob & Volkow (2016) — Bağımlılığın Nörobiyolojisi: Bir Nörodevresel Analiz
 
 **Tam kaynak:** Koob GF, Volkow ND. "Neurobiology of addiction: a neurocircuitry analysis." *Lancet Psychiatry*. 2016 Ağustos;3(8):760–773. doi:10.1016/S2215-0366(16)00104-8.

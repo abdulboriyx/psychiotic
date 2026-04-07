@@ -1,3 +1,5 @@
+🇬🇧 [English](../../wiki/conditions/schizophrenia.md)
+
 # Şizofreni (SCZ)
 
 ## Tanım

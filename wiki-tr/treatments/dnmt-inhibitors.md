@@ -1,3 +1,5 @@
+🇬🇧 [English](../../wiki/treatments/dnmt-inhibitors.md)
+
 # DNMT İnhibitörleri (DNA Methyltransferase Inhibitors)
 
 ## Tanım

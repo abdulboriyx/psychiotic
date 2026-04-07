@@ -1,3 +1,5 @@
+🇹🇷 [Türkçe](../../wiki-tr/conditions/depression.md)
+
 # Depression (Major Depressive Disorder)
 
 ## Definition

@@ -1,3 +1,5 @@
+🇬🇧 [English](../../wiki/mechanisms/dopamine-reward-system.md)
+
 # Dopamin Ödül Sistemi (Dopamine Reward System)
 
 ## Genel Bakış

@@ -1,3 +1,5 @@
+🇹🇷 [Türkçe](../../wiki-tr/conditions/addiction.md)
+
 # Addiction (Substance Use Disorder)
 
 ## Definition

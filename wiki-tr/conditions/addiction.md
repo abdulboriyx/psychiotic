@@ -1,3 +1,5 @@
+🇬🇧 [English](../../wiki/conditions/addiction.md)
+
 # Bağımlılık (Madde Kullanım Bozukluğu)
 
 ## Tanım

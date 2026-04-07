@@ -1,3 +1,5 @@
+🇬🇧 [English](../../wiki/conditions/depression.md)
+
 # Depresyon (Majör Depresif Bozukluk)
 
 ## Tanım

@@ -1,3 +1,5 @@
+🇹🇷 [Türkçe](../../wiki-tr/conditions/bipolar-disorder.md)
+
 # Bipolar Disorder
 
 ## Definition

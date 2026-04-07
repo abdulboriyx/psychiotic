@@ -1,3 +1,5 @@
+🇹🇷 [Türkçe](index-tr.md)
+
 # Index
 
 ## Conditions

@@ -1,3 +1,5 @@
+🇹🇷 [Türkçe](../../wiki-tr/mechanisms/executive-function-dysregulation.md)
+
 # Executive Function Dysregulation in Addiction
 
 ## Overview

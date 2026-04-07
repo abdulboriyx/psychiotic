@@ -1,3 +1,5 @@
+🇹🇷 [Türkçe](../../wiki-tr/conditions/schizophrenia.md)
+
 # Schizophrenia (SCZ)
 
 ## Definition

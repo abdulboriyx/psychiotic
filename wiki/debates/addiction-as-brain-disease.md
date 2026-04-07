@@ -1,3 +1,5 @@
+🇹🇷 [Türkçe](../../wiki-tr/debates/addiction-as-brain-disease.md)
+
 # Debate: Is Addiction a Brain Disease?
 
 ## The Question

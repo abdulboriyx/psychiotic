@@ -1,3 +1,5 @@
+🇹🇷 [Türkçe](../../wiki-tr/mechanisms/anti-reward-stress-systems.md)
+
 # Anti-Reward and Stress Systems
 
 ## Overview

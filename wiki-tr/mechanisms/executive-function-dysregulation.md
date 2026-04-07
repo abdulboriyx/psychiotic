@@ -1,3 +1,5 @@
+🇬🇧 [English](../../wiki/mechanisms/executive-function-dysregulation.md)
+
 # Bağımlılıkta Yürütücü İşlev Disregülasyonu (Executive Function Dysregulation)
 
 ## Genel Bakış

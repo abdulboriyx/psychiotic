@@ -1,3 +1,5 @@
+🇬🇧 [English](../../wiki/conditions/bipolar-disorder.md)
+
 # Bipolar Bozukluk
 
 ## Tanım

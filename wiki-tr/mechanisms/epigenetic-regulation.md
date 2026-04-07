@@ -1,3 +1,5 @@
+🇬🇧 [English](../../wiki/mechanisms/epigenetic-regulation.md)
+
 # Psikiyatrik Bozukluklarda Epigenetik Düzenleme (Epigenetic Regulation)
 
 ## Epigenetik Düzenleme Nedir?

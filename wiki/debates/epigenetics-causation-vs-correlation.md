@@ -1,3 +1,5 @@
+🇹🇷 [Türkçe](../../wiki-tr/debates/epigenetics-causation-vs-correlation.md)
+
 # Debate: Epigenetic Changes in Psychiatric Disorders — Causation vs. Correlation?
 
 ## The Question

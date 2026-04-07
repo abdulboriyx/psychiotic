@@ -1,3 +1,5 @@
+🇹🇷 [Türkçe](../../wiki-tr/mechanisms/dopamine-reward-system.md)
+
 # Dopamine Reward System
 
 ## Overview

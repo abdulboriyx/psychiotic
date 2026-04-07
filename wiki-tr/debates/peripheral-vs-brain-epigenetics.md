@@ -1,3 +1,5 @@
+🇬🇧 [English](../../wiki/debates/peripheral-vs-brain-epigenetics.md)
+
 # Tartışma: Periferik Epigenetik İşaretler Beyin Epigenetik Durumunu Yansıtır mı?
 
 ## Soru

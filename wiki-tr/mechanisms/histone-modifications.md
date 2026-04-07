@@ -1,3 +1,5 @@
+🇬🇧 [English](../../wiki/mechanisms/histone-modifications.md)
+
 # Histon Modifikasyonları (Histone Modifications)
 
 ## Genel Bakış
