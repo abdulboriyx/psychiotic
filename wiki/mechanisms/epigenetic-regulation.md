@@ -47,7 +47,7 @@ Including microRNAs. Important in epigenetic regulation in psychiatric disorders
 
 ## Links
 
-- Conditions: [Depression](../conditions/depression.md) · [Schizophrenia](../conditions/schizophrenia.md) · [Bipolar Disorder](../conditions/bipolar-disorder.md)
+- Conditions: [Depression](../conditions/depression.md) · [Schizophrenia](../conditions/schizophrenia.md) · [Bipolar Disorder](../conditions/bipolar-disorder.md) · [Addiction](../conditions/addiction.md)
 - Mechanisms: [Histone Modifications](histone-modifications.md) · [DNA Methylation](dna-methylation.md)
 - Treatments: [HDAC Inhibitors](../treatments/hdac-inhibitors.md) · [DNMT Inhibitors](../treatments/dnmt-inhibitors.md)
-- Sources: [Nestler et al. 2016](../sources/nestler-2016-epigenetic-basis-mental-illness.md)
+- Sources: [Nestler et al. 2016](../sources/nestler-2016-epigenetic-basis-mental-illness.md) · [Koob & Volkow 2016](../sources/koob-volkow-2016-neurobiology-addiction.md)

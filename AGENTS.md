@@ -17,9 +17,15 @@ When a source is added:
 - Add cross-links between pages
 - Update index.md
 - Append to log.md
+- Translate all new and updated pages to Turkish:
+  python3 translate.py <space-separated list of new/updated wiki/*.md files>
+- Translate the updated index:
+  python3 translate.py index.md
+- Append a translation entry to log.md
 
 Log format:
 ## [YYYY-MM-DD] ingest | [source title]
+## [YYYY-MM-DD] translate | [source title]
 
 Page types:
 
@@ -75,6 +81,12 @@ Rules:
 - Flag contradictions with existing pages
 - Note when evidence is weak or debated
 - Never summarize a finding without explaining the mechanism behind it
+
+Translation rules:
+- Always run translate.py after any ingest that creates or updates wiki pages
+- Never manually edit wiki-tr/ files — they are generated outputs
+- If a wiki/ page is corrected, re-run translate.py on that specific file
+- index-tr.md is always regenerated from index.md (never edited directly)
 
 When answering questions:
 - First read index.md

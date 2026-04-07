@@ -4,7 +4,8 @@
       "Bash(pdftotext /Users/zerozae/Desktop/psychitarious/raw/nihms745234.pdf -)",
       "Bash(brew list:*)",
       "Bash(pip3 install:*)",
-      "Bash(python3:*)"
+      "Bash(python3:*)",
+      "Bash(find /Users/zerozae/Desktop/psychitarious -type f \\\\\\(-name *.py -o -name *translat* -o -name *.json -o -name *.yaml -o -name *.yml \\\\\\))"
     ]
   }
 }

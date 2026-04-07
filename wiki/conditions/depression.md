@@ -48,7 +48,7 @@ Depression is only ~40% heritable (lower than SCZ or bipolar disorder), which un
 
 ## Links
 
-- Mechanisms: [Epigenetic Regulation](../mechanisms/epigenetic-regulation.md) · [Histone Modifications](../mechanisms/histone-modifications.md) · [DNA Methylation](../mechanisms/dna-methylation.md)
+- Mechanisms: [Epigenetic Regulation](../mechanisms/epigenetic-regulation.md) · [Histone Modifications](../mechanisms/histone-modifications.md) · [DNA Methylation](../mechanisms/dna-methylation.md) · [Anti-Reward and Stress Systems](../mechanisms/anti-reward-stress-systems.md)
 - Treatments: [HDAC Inhibitors](../treatments/hdac-inhibitors.md) · [DNMT Inhibitors](../treatments/dnmt-inhibitors.md)
 - Debates: [Epigenetics: Causation vs. Correlation](../debates/epigenetics-causation-vs-correlation.md) · [Peripheral vs. Brain Epigenetics](../debates/peripheral-vs-brain-epigenetics.md)
 - Sources: [Nestler et al. 2016](../sources/nestler-2016-epigenetic-basis-mental-illness.md)
