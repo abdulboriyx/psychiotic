@@ -8,7 +8,7 @@
 - Updated `wiki-tr/mechanisms/dopamine-reward-system.md`
 - (Manual translation performed due to script environment limitations)
 
-## [2026-04-08] ingest | Howes & Murray (2014) — Schizophrenia: an integrated sociodevelopmental-cognitive model
+## [2026-04-08] ingest | Howes & Murray (2014) — Schizophrenia: an integrated
 ...
 
 - Source: `raw/schizo-murray.pdf`
