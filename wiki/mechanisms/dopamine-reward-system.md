@@ -49,6 +49,14 @@ The mesocorticostriatal dopamine system is the primary neurobiological substrate
 - ΔFosB accumulation in NAc (from chronic drug use) also appears in depression models; H3K9me2 targeting of the *FosB* locus produces depression-like behaviour. (See [Depression](../conditions/depression.md); [Histone Modifications](histone-modifications.md).)
 - CRF stress axis dysregulation is shared between addiction withdrawal and depression. (See [Anti-Reward and Stress Systems](anti-reward-stress-systems.md).)
 
+## Dopamine in Schizophrenia: The Presynaptic Shift
+
+In contrast to addiction, where the primary finding is D2 receptor downregulation and reduced DA release, schizophrenia is characterized by **excessive presynaptic DA activity** in the striatum:
+- **Elevated Synthesis Capacity:** Increased levels of DOPA decarboxylase (the enzyme converting L-DOPA to dopamine) are found in patients with frank psychosis (Cohen's d > 0.8).
+- **Aberrant Salience:** Excessive, "noisy" DA firing causes neutral stimuli to be perceived as highly significant, leading to the formation of delusions. (See: [Aberrant Salience](aberrant-salience.md))
+- **Dynamic Response to Stress:** Unlike the blunted DA response seen in addiction, individuals at risk for schizophrenia show a *sensitized* DA response to social and environmental stressors.
+- **Locus of Action:** Current antipsychotics target postsynaptic D2 receptors, but the underlying pathology is primarily presynaptic, potentially explaining incomplete treatment responses.
+
 ## Established vs. Hypothesized
 
 | Claim | Status |

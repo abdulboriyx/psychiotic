@@ -29,6 +29,18 @@ Schizophrenia is a severe, chronic psychiatric disorder defined by three symptom
 
 SCZ is highly heritable (~80%), but twin discordance and environmental factors indicate non-genetic contributions. A complex, polygenic risk architecture underlies most cases. Developmental abnormalities (neuronal migration, GABAergic circuitry) are implicated.
 
+### Integrated Sociodevelopmental-Cognitive Model
+A leading framework (Howes & Murray, 2014) proposes that SCZ results from the integration of three main factors:
+1.  **Developmental Sensitization:** Genetic risk (e.g., *DISC1*, *NRG1*) and early hazards (obstetric complications, childhood adversity) sensitize the dopamine system.
+2.  **Social Adversity:** Stressors like migration, urbanicity, and social defeat bias cognitive schemas toward paranoid interpretations.
+3.  **The Vicious Cycle:** Acute stress triggers dysregulated, excessive **presynaptic dopamine release** (high synthesis capacity). This leads to **aberrant salience**—attributing importance to neutral stimuli—which the biased cognitive schema then misinterprets as psychotic experiences (e.g., delusions). The resulting paranoia increases stress, further dysregulating dopamine and "hard-wiring" the beliefs.
+
+## Dopamine Hypothesis: Presynaptic Shift
+While traditionally focused on postsynaptic D2 receptor hypersensitivity (the target of antipsychotics), modern evidence (meta-analysis of >50 PET/SPECT studies) indicates that the primary locus of dysfunction is **presynaptic**:
+- **Elevated DA synthesis capacity:** Specifically seen in the striatum of individuals with frank psychosis.
+- **Increased DA release:** Triggered by stress or amphetamine challenge.
+- **Dynamic Nature:** DA dysregulation is not static but fluctuates, increasing during the progression from prodrome to the first psychotic episode.
+
 ## Epigenetic Mechanisms
 
 - **RELN hypermethylation in PFC:** Reelin promoter is hypermethylated in SCZ brain, reducing reelin expression. Reelin controls neuronal migration; deficiency may drive developmental abnormalities. Associated with elevated DNMT1. Unrelated to antipsychotic drug exposure. (*Established: postmortem human brain; replicated.*)
