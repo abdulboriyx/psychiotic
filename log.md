@@ -51,7 +51,7 @@
 - Created: `wiki/sources/howes-murray-2014-schizophrenia-integrated-model.md`
 - Created mechanism: `aberrant-salience.md`
 - Updated condition: `schizophrenia.md` (added integrated model and presynaptic shift)
-- Updated mechanism: `dopamine-reward-system.md` (added presynaptic shift in SCZ)
+- Updated mechanism: `dopamine-reward-system.md` (added presynaptic shift in SCZ and added new systems for Alzheimer)
 - Updated: `index.md`
 
 ## [2026-04-07] ingest | Koob & Volkow (2016) — Neurobiology of Addiction: A Neurocircuitry Analysis
