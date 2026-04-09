@@ -36,6 +36,11 @@ MikroRNA'lar dahil. Psikiyatrik bozukluklarda epigenetik düzenlemede önemlidir
 3. **Beyin bölgesi özgüllüğü:** Değişiklikler sıklıkla bölge ve hücre tipi özgüldür; psikiyatrik bozuklukların devre düzeyindeki patolojisiyle tutarlıdır.
 4. **Birleştirici tema olarak transkripsiyon disregülasyonu:** Psikiyatrik bozukluklar limbik bölgeler genelinde değişmiş gen ifadesini paylaşır; epigenetik disregülasyon bunun altında yatar. (*Hipotez; yakınsayan kanıtlarla desteklenir ancak çoğu durumda nedensellik kanıtlanmamıştır.*)
 
+## Yeni Ortaya Çıkan Kavramlar: Beyin Yaşı (Emerging Concepts: Brain Age)
+Epigenetik saatler (DNA metilasyon modellerini ölçen), biyolojik yaşı tahmin etmek için uzun süredir kullanılmaktadır. Son gelişmeler (Marx ve ark., 2023) şunları tanıtmıştır:
+- **Histolojik Beyin Yaşı (Histological Brain Age):** Histopatolojik tüm slayt görüntülerinden beyin yaşını tahmin etmek için AI ve dijital patolojinin kullanılması.
+- **Dijital Biyobelirteçler (Digital Biomarkers):** AI destekli modeller, yaşlanmaya karşı savunmasız beyin bölgelerinin (örneğin, belirli beyaz madde alanları veya hipokampal alt alanlar) klinik sonuçları tahmin etmek için standart epigenetik önlemlerden daha kesin olabilecek sağlam histolojik belirteçlerini tanımlayabilir.
+
 ## Kanıtlanmış ile Hipotezleştirilmiş
 
 | İddia | Durum |
@@ -52,4 +57,4 @@ MikroRNA'lar dahil. Psikiyatrik bozukluklarda epigenetik düzenlemede önemlidir
 - Durumlar: [Depresyon](../conditions/depression.md) · [Şizofreni](../conditions/schizophrenia.md) · [Bipolar Bozukluk](../conditions/bipolar-disorder.md) · [Bağımlılık](../conditions/addiction.md)
 - Mekanizmalar: [Histon Modifikasyonları](histone-modifications.md) · [DNA Metilasyonu](dna-methylation.md)
 - Tedaviler: [HDAC İnhibitörleri](../treatments/hdac-inhibitors.md) · [DNMT İnhibitörleri](../treatments/dnmt-inhibitors.md)
-- Kaynaklar: [Nestler ve ark. 2016](../sources/nestler-2016-epigenetic-basis-mental-illness.md) · [Koob & Volkow 2016](../sources/koob-volkow-2016-neurobiology-addiction.md)
+- Kaynaklar: [Nestler ve ark. 2016](../sources/nestler-2016-epigenetic-basis-mental-illness.md) · [Koob & Volkow 2016](../sources/koob-volkow-2016-neurobiology-addiction.md) · [Crary 2024](../sources/crary-2024-neurodegeneration-update.md)

@@ -36,6 +36,11 @@ Including microRNAs. Important in epigenetic regulation in psychiatric disorders
 3. **Brain-region specificity:** Changes are often region- and cell-type-specific, consistent with the circuit-level pathology of psychiatric disorders.
 4. **Transcriptional dysregulation as a unifying theme:** Psychiatric disorders share altered gene expression across limbic regions; epigenetic dysregulation underlies this. (*Hypothesis; supported by convergent evidence but not proven causally in most instances.*)
 
+## Emerging Concepts: Brain Age
+Epigenetic clocks (measuring DNA methylation patterns) have long been used to estimate biological age. Recent advances (Marx et al., 2023) have introduced:
+- **Histological Brain Age:** Using AI and digital pathology to estimate brain age from histopathological whole slide images. 
+- **Digital Biomarkers:** AI-driven models can identify robust histological markers of aging-vulnerable brain regions (e.g., specific white matter areas or hippocampal subfields) that may be more precise than standard epigenetic measures for predicting clinical outcomes.
+
 ## Established vs. Hypothesized
 
 | Claim | Status |
@@ -52,4 +57,4 @@ Including microRNAs. Important in epigenetic regulation in psychiatric disorders
 - Conditions: [Depression](../conditions/depression.md) · [Schizophrenia](../conditions/schizophrenia.md) · [Bipolar Disorder](../conditions/bipolar-disorder.md) · [Addiction](../conditions/addiction.md)
 - Mechanisms: [Histone Modifications](histone-modifications.md) · [DNA Methylation](dna-methylation.md)
 - Treatments: [HDAC Inhibitors](../treatments/hdac-inhibitors.md) · [DNMT Inhibitors](../treatments/dnmt-inhibitors.md)
-- Sources: [Nestler et al. 2016](../sources/nestler-2016-epigenetic-basis-mental-illness.md) · [Koob & Volkow 2016](../sources/koob-volkow-2016-neurobiology-addiction.md)
+- Sources: [Nestler et al. 2016](../sources/nestler-2016-epigenetic-basis-mental-illness.md) · [Koob & Volkow 2016](../sources/koob-volkow-2016-neurobiology-addiction.md) · [Crary 2024](../sources/crary-2024-neurodegeneration-update.md)

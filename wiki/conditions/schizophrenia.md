@@ -38,8 +38,15 @@ A leading framework (Howes & Murray, 2014) proposes that SCZ results from the in
 ## Dopamine Hypothesis: Presynaptic Shift
 While traditionally focused on postsynaptic D2 receptor hypersensitivity (the target of antipsychotics), modern evidence (meta-analysis of >50 PET/SPECT studies) indicates that the primary locus of dysfunction is **presynaptic**:
 - **Elevated DA synthesis capacity:** Specifically seen in the striatum of individuals with frank psychosis.
-- **Increased DA release:** Triggered by stress or amphetamine challenge.
+- **Increased DA release:** Triggered by stress, amphetamine challenge, or **cortical glutamatergic disinhibition**.
 - **Dynamic Nature:** DA dysregulation is not static but fluctuates, increasing during the progression from prodrome to the first psychotic episode.
+
+### Glutamate-Dopamine Interaction
+Modern evidence (McCutcheon et al., 2020) suggests that schizophrenia is not just a dopamine disorder but involves a complex interplay between glutamatergic and dopaminergic systems:
+- **NMDA Hypofunction:** Reduced function of NMDA glutamate receptors, particularly on GABAergic interneurons in the prefrontal cortex and hippocampus, leads to a disinhibition of glutamatergic pyramidal neurons.
+- **Circuit Disruption:** These overactive glutamatergic neurons then over-stimulate midbrain dopamine neurons, causing the excessive **presynaptic dopamine release** observed in the striatum.
+- **Transmitter Mapping:** While striatal dopamine is primarily associated with positive symptoms (hallucinations, delusions), cortical glutamatergic deficits are more closely linked to cognitive and negative symptoms.
+- **Treatment Resistance:** Patients who do not respond to traditional D2-blocking antipsychotics often show higher levels of cortical glutamate, suggesting a primary glutamatergic pathology in treatment-resistant cases.
 
 ## Epigenetic Mechanisms
 
@@ -61,7 +68,7 @@ All available antipsychotics antagonize (or partially agonize) D2 dopamine recep
 
 ## Links
 
-- Mechanisms: [Epigenetic Regulation](../mechanisms/epigenetic-regulation.md) · [Histone Modifications](../mechanisms/histone-modifications.md) · [DNA Methylation](../mechanisms/dna-methylation.md)
+- Mechanisms: [Epigenetic Regulation](../mechanisms/epigenetic-regulation.md) · [Histone Modifications](../mechanisms/histone-modifications.md) · [DNA Methylation](../mechanisms/dna-methylation.md) · [Glutamate Hypothesis](../mechanisms/glutamate-hypothesis.md)
 - Treatments: [HDAC Inhibitors](../treatments/hdac-inhibitors.md) · [DNMT Inhibitors](../treatments/dnmt-inhibitors.md)
 - Debates: [Epigenetics: Causation vs. Correlation](../debates/epigenetics-causation-vs-correlation.md) · [Peripheral vs. Brain Epigenetics](../debates/peripheral-vs-brain-epigenetics.md)
-- Sources: [Nestler et al. 2016](../sources/nestler-2016-epigenetic-basis-mental-illness.md)
+- Sources: [Nestler et al. 2016](../sources/nestler-2016-epigenetic-basis-mental-illness.md) · [McCutcheon et al. 2020](../sources/mccutcheon-2020-dopamine-glutamate-schizophrenia.md)

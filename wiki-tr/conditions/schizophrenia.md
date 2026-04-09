@@ -38,8 +38,15 @@ SCZ yüksek oranda kalıtılabilirdir (~%80), ancak ikiz uyumsuzluğu ve çevres
 ## Dopamin Hipotezi: Presinaptik Kayma (Dopamine Hypothesis: Presynaptic Shift)
 Geleneksel olarak postsinaptik D2 reseptör aşırı duyarlılığına (antipsikotiklerin hedefi) odaklanılmış olsa da, modern kanıtlar (50'den fazla PET/SPECT çalışmasının meta-analizi), işlev bozukluğunun birincil odağının **presinaptik** olduğunu göstermektedir:
 - **Artmış DA Sentez Kapasitesi:** Özellikle belirgin psikozu olan bireylerin striatumunda görülür.
-- **Artmış DA Salınımı:** Stres veya amfetamin uyarımı ile tetiklenir.
+- **Artmış DA Salınımı:** Stres, amfetamin uyarımı veya **kortikal glutamaterjik disinhibisyon** ile tetiklenir.
 - **Dinamik Doğa:** DA düzensizliği statik değildir, dalgalanma gösterir ve prodromdan (ön belirti evresi) ilk psikotik atağa geçiş sırasında artar.
+
+### Glutamat-Dopamin Etkileşimi (Glutamate-Dopamine Interaction)
+Modern kanıtlar (McCutcheon et al., 2020), şizofreninin sadece bir dopamin bozukluğu olmadığını, glutamaterjik ve dopaminerjik sistemler arasında karmaşık bir etkileşim içerdiğini göstermektedir:
+- **NMDA Hipofonksiyonu:** Prefrontal korteks ve hipokampustaki GABAerjik internöronlar üzerindeki NMDA glutamat reseptörlerinin azalmış işlevi, glutamaterjik piramidal nöronların disinhibisyonuna yol açar.
+- **Devre Bozulması:** Bu aşırı aktif glutamaterjik nöronlar daha sonra orta beyin dopamin nöronlarını aşırı uyararak striatumda gözlenen aşırı **presinaptik dopamin salınımına** neden olur.
+- **Transmitter Haritalama:** Striatal dopamin birincil olarak pozitif semptomlarla (halüsinasyonlar, sanrılar) ilişkilendirilirken, kortikal glutamaterjik kusurlar bilişsel ve negatif semptomlarla daha yakından bağlantılıdır.
+- **Tedavi Direnci:** Geleneksel D2 engelleyici antipsikotiklere yanıt vermeyen hastalar genellikle daha yüksek kortikal glutamat seviyeleri gösterir, bu da tedaviye dirençli vakalarda birincil bir glutamaterjik patolojiye işaret eder.
 
 ## Epigenetik Mekanizmalar (Epigenetic Mechanisms)
 
@@ -61,7 +68,7 @@ Mevcut tüm antipsikotikler D2 dopamin reseptörlerini antagonize eder (veya kı
 
 ## Bağlantılar (Links)
 
-- Mekanizmalar: [Epigenetik Düzenleme](../mechanisms/epigenetic-regulation.md) · [Histone Modifications](../mechanisms/histone-modifications.md) · [DNA Methylation](../mechanisms/dna-methylation.md)
+- Mekanizmalar: [Epigenetik Düzenleme](../mechanisms/epigenetic-regulation.md) · [Histone Modifications](../mechanisms/histone-modifications.md) · [DNA Methylation](../mechanisms/dna-methylation.md) · [Glutamat Hipotezi](../mechanisms/glutamate-hypothesis.md)
 - Tedaviler: [HDAC Inhibitors](../treatments/hdac-inhibitors.md) · [DNMT Inhibitors](../treatments/dnmt-inhibitors.md)
 - Tartışmalar: [Epigenetics: Causation vs. Correlation](../debates/epigenetics-causation-vs-correlation.md) · [Peripheral vs. Brain Epigenetics](../debates/peripheral-vs-brain-epigenetics.md)
-- Kaynaklar: [Nestler et al. 2016](../sources/nestler-2016-epigenetic-basis-mental-illness.md)
+- Kaynaklar: [Nestler et al. 2016](../sources/nestler-2016-epigenetic-basis-mental-illness.md) · [McCutcheon et al. 2020](../sources/mccutcheon-2020-dopamine-glutamate-schizophrenia.md)
