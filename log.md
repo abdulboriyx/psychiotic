@@ -1,5 +1,20 @@
 # Log
 
+## [2026-04-10] translate | Prusiner (1982)
+- Translated `wiki/sources/prusiner-1982-novel-proteinaceous-infectious-particles.md` -> `wiki-tr/sources/prusiner-1982-novel-proteinaceous-infectious-particles.md`
+- Translated `wiki/mechanisms/prion-hypothesis.md` -> `wiki-tr/mechanisms/prion-hypothesis.md`
+- Translated `wiki/mechanisms/protein-only-inheritance.md` -> `wiki-tr/mechanisms/protein-only-inheritance.md`
+- Translated `wiki/conditions/cjd.md` -> `wiki-tr/conditions/cjd.md`
+- Updated `index-tr.md`
+- (Manual translation performed due to environment limitations)
+
+## [2026-04-10] ingest | Prusiner (1982) — Novel Proteinaceous Infectious Particles Cause Scrapie
+- Source: `raw/prusiner.pdf`
+- Created source: `wiki/sources/prusiner-1982-novel-proteinaceous-infectious-particles.md`
+- Created condition: `cjd.md`
+- Created mechanisms: `prion-hypothesis.md` · `protein-only-inheritance.md`
+- Updated: `index.md`
+
 ## [2026-04-10] translate | Hardy & Higgins (1992)
 - Translated `wiki/sources/hardy-higgins-1992-amyloid-cascade-hypothesis.md` -> `wiki-tr/sources/hardy-higgins-1992-amyloid-cascade-hypothesis.md`
 - Translated `wiki/mechanisms/amyloid-cascade-hypothesis.md` -> `wiki-tr/mechanisms/amyloid-cascade-hypothesis.md`
