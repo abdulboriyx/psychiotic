@@ -10,8 +10,9 @@ Alzheimer's disease is a progressive neurodegenerative disorder characterized by
 - In late stages, significant loss of motor function and independence.
 
 ## Mechanisms
-- **Amyloid Cascade Hypothesis:** Accumulation of Aβ plaques as a primary driver.
-- **Tauopathy:** Formation of neurofibrillary tangles correlating strongly with cognitive decline.
+- **[Amyloid Cascade Hypothesis](../mechanisms/amyloid-cascade-hypothesis.md):** Accumulation of Aβ plaques as a primary driver. (First proposed by [Hardy & Higgins, 1992](../sources/hardy-higgins-1992-amyloid-cascade-hypothesis.md))
+- **[Tau Tangles](../mechanisms/tau-tangles.md):** Formation of neurofibrillary tangles correlating strongly with cognitive decline.
+- **[Calcium Homeostasis Dysregulation](../mechanisms/calcium-homeostasis-dysregulation.md):** Aβ-induced calcium influx as a link to tau pathology.
 - **Neuroinflammation:** Chronic activation of microglia and astrocytes. (See: [Microglia-T cell Interaction](#))
 - **Cell-Type-Specific Genetic Risk:** Recent causal modeling (Yang et al., 2023) indicates that:
     - **Astrocytic risk** primarily drives early Aβ accumulation.
@@ -24,5 +25,5 @@ Large-scale biobank studies (Levine et al., 2023) have identified significant as
 - **Hypothesis:** Viral infections may prime the brain's immune system or directly trigger neurodegenerative processes. (See: [Viral Links to Neurodegeneration](../mechanisms/viral-links-ndd.md))
 
 ## Links
-- Mechanisms: [Epigenetic Regulation](../mechanisms/epigenetic-regulation.md) · [Viral Links to Neurodegeneration](../mechanisms/viral-links-ndd.md)
-- Sources: [Crary 2024](../sources/crary-2024-neurodegeneration-update.md) · [Nestler et al. 2016](../sources/nestler-2016-epigenetic-basis-mental-illness.md)
+- Mechanisms: [Amyloid Cascade Hypothesis](../mechanisms/amyloid-cascade-hypothesis.md) · [Tau Tangles](../mechanisms/tau-tangles.md) · [Calcium Homeostasis Dysregulation](../mechanisms/calcium-homeostasis-dysregulation.md) · [Epigenetic Regulation](../mechanisms/epigenetic-regulation.md) · [Viral Links to Neurodegeneration](../mechanisms/viral-links-ndd.md)
+- Sources: [Hardy & Higgins 1992](../sources/hardy-higgins-1992-amyloid-cascade-hypothesis.md) · [Crary 2024](../sources/crary-2024-neurodegeneration-update.md) · [Nestler et al. 2016](../sources/nestler-2016-epigenetic-basis-mental-illness.md)

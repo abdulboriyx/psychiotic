@@ -1,5 +1,21 @@
 # Log
 
+## [2026-04-10] translate | Hardy & Higgins (1992)
+- Translated `wiki/sources/hardy-higgins-1992-amyloid-cascade-hypothesis.md` -> `wiki-tr/sources/hardy-higgins-1992-amyloid-cascade-hypothesis.md`
+- Translated `wiki/mechanisms/amyloid-cascade-hypothesis.md` -> `wiki-tr/mechanisms/amyloid-cascade-hypothesis.md`
+- Translated `wiki/mechanisms/tau-tangles.md` -> `wiki-tr/mechanisms/tau-tangles.md`
+- Translated `wiki/mechanisms/calcium-homeostasis-dysregulation.md` -> `wiki-tr/mechanisms/calcium-homeostasis-dysregulation.md`
+- Updated `wiki-tr/conditions/alzheimers-disease.md`
+- Updated `index-tr.md`
+- (Manual translation performed due to environment limitations)
+
+## [2026-04-10] ingest | Hardy & Higgins (1992) — Alzheimer's Disease: The Amyloid Cascade Hypothesis
+- Source: `raw/The Amyloid .pdf`
+- Created source: `wiki/sources/hardy-higgins-1992-amyloid-cascade-hypothesis.md`
+- Created mechanisms: `amyloid-cascade-hypothesis.md` · `tau-tangles.md` · `calcium-homeostasis-dysregulation.md`
+- Updated condition: `alzheimers-disease.md`
+- Updated: `index.md`
+
 ## [2026-04-08] translate | Crary (2024)
 - Translated `wiki/sources/crary-2024-neurodegeneration-update.md` -> `wiki-tr/sources/crary-2024-neurodegeneration-update.md`
 - Translated `wiki/conditions/alzheimers-disease.md` -> `wiki-tr/conditions/alzheimers-disease.md`
