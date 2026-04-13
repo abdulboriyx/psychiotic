@@ -1,6 +1,12 @@
 title: "Psychitarious Wiki"
 description: "A structured mental health and psychiatry knowledge base."
 theme: minima
+header_pages:
+  - conditions.md
+  - mechanisms.md
+  - treatments.md
+  - debates.md
+  - sources.md
 # GitHub Pages compatibility
 plugins:
   - jekyll-feed

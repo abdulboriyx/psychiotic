@@ -25,6 +25,25 @@ body {
   }
 }
 
+@media screen and (min-width: 601px) {
+  .site-header .site-nav {
+    position: static;
+    float: right;
+    border: 0;
+    background: transparent;
+  }
+
+  .site-header .site-nav .nav-trigger,
+  .site-header .site-nav .menu-icon {
+    display: none;
+  }
+
+  .site-header .site-nav .trigger {
+    display: block;
+    padding-top: 6px;
+  }
+}
+
 .site-title {
   padding: 12px 15px;
   min-height: 44px;
